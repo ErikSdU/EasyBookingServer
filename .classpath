@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/Lufthansa.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/authorization.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/javax.jdo-3.2.0-m12.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/payment.jar"/>
+	<classpathentry kind="con" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/bin"/>
+	<classpathentry kind="con" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/resources"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/datanucleus-api-jdo-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/datanucleus-cache-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/datanucleus-core-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Deusto/SoftwareDesign/LabsWorkpace/EasyBookingS/lib/datanucleus-rdbms-5.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
