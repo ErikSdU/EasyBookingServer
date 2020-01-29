@@ -2,6 +2,7 @@ package es.deusto.ingenieria.sd.server.data.info;
 
 import javax.jdo.annotations.*;
 
+
 @PersistenceCapable(detachable="true")
 public class User {
 	@PrimaryKey
@@ -23,7 +24,7 @@ public class User {
 	
 	@Override
 	public String toString() {
-		return "UserDTO [email=" + email + ", password=" + password + ", name=" + name + ", username=" + username
+		return "User [email=" + email + ", password=" + password + ", name=" + name + ", username=" + username
 				+ ", defaultDepAirport=" + defaultDepAirport + ", defaultArrAirport=" + "]";
 	}
 
